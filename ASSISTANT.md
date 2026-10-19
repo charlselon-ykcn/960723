@@ -3,7 +3,7 @@
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
 Template & full download: https://motiongit.com/@adunext/template-05-native
-Version: 2.7.5
+Version: 2.7.6
 Download available; current terms are listed with the package.
 
 ## Technical reference
@@ -18,7 +18,7 @@ Download available; current terms are listed with the package.
 
 ## Inputs
 
-- **Required:** Your current talking-head video with its original audio for the native presenter workflow.
+- **Optional:** Your current talking-head video with its original audio for the native presenter workflow.
 - **Required:** A transcript or SRT matching the current narration/video.
 - **Optional:** The topic, key points and output preferences already available in the conversation.
 
