@@ -4,7 +4,7 @@
 
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.4** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.5** · [@adunext](https://motiongit.com/@adunext) · [简体中文](README.zh-CN.md)
 
 **[Template details, full .motion & demo](https://motiongit.com/@adunext/template-05-native)**
 https://motiongit.com/@adunext/template-05-native
