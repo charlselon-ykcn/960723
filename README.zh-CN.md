@@ -4,12 +4,12 @@
 
 用鲜明配色、角色素材与叙事动效配合口播，适合故事、观点和情境解释。
 
-**16:9 · 1920 × 1080 · 60 fps · v2.7.18-alpha.7** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
+**16:9 · 1920 × 1080 · 60 fps · v2.7.18-alpha.8** · [@adunext](https://motiongit.com/@adunext) · [English](README.md)
 
 **[模板详情、完整 .motion 与 Demo](https://motiongit.com/@adunext/template-05-native)**
 https://motiongit.com/@adunext/template-05-native
 
-下载已开放，当前许可见模板页面与下载包。
+Demo 已公开，模板下载即将开放。
 
 ## Demo
 

@@ -3,8 +3,8 @@
 Support stories and contextual explanations with vivid colors, character assets and narrative animation.
 
 Template & full download: https://motiongit.com/@adunext/template-05-native
-Version: 2.7.18-alpha.7
-Download available; current terms are listed with the package.
+Version: 2.7.18-alpha.8
+Demo available; template download coming soon.
 
 ## Technical reference
 
