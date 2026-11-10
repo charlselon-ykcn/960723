@@ -11,7 +11,7 @@ Motion templates now support asset APIs for background music, stickers, images a
 **[Download .motion from MotionGit](https://motiongit.com/@adunext/template-05-native)**
 https://motiongit.com/@adunext/template-05-native
 
-Demo available; template download coming soon.
+Demo available. Check the official page for current download availability.
 
 ## Demo
 
